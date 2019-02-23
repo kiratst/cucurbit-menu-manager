@@ -1,0 +1,27 @@
+{
+    "name": "cucurbit/menu-manager",
+    "description": "Cucurbit Framework Menu Manager",
+    "authors": [
+        {
+            "name": "lpt",
+            "email": "kiratst@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+		"php": ">=7.0.0",
+		"symfony/yaml": "^3.4"
+	},
+	"extra": {
+		"laravel": {
+			"providers": [
+				"\\Cucurbit\\MenuManager\\ServiceProvider"
+			]
+		}
+	},
+	"autoload": {
+		"psr-4": {
+			"Cucurbit\\MenuManager\\": "src/"
+		}
+	}
+}
