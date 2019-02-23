@@ -23,5 +23,8 @@
 		"psr-4": {
 			"Cucurbit\\MenuManager\\": "src/"
 		}
+	},
+	"config": {
+		"preferred-install": "dist"
 	}
 }
