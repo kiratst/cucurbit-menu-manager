@@ -22,7 +22,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"Cucurbit\\MenuManager\\": "src/"
+			"Cucurbit\\ModuleManager\\": "src/"
 		}
 	},
 	"config": {
