@@ -16,7 +16,7 @@
 	"extra": {
 		"laravel": {
 			"providers": [
-				"\\Cucurbit\\MenuManager\\ServiceProvider"
+				"\\Cucurbit\\ModuleManager\\ServiceProvider"
 			]
 		}
 	},
