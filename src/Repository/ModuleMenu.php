@@ -1,4 +1,4 @@
-<?php namespace Cucurbit\MenuManager\Repository;
+<?php namespace Cucurbit\ModuleManager\Repository;
 
 use Illuminate\Support\Collection;
 

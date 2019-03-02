@@ -1,4 +1,4 @@
-<?php namespace Cucurbit\MenuManager;
+<?php namespace Cucurbit\ModuleManager;
 
 use Illuminate\Support\ServiceProvider as BaseServiceProvider;
 

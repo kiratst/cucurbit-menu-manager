@@ -1,7 +1,7 @@
-<?php namespace Cucurbit\MenuManager;
+<?php namespace Cucurbit\ModuleManager;
 
 use ArrayAccess;
-use Cucurbit\MenuManager\Traits\AttributeTrait;
+use Cucurbit\ModuleManager\Traits\AttributeTrait;
 use Illuminate\Contracts\Support\Arrayable;
 
 class Module implements Arrayable, ArrayAccess, \JsonSerializable

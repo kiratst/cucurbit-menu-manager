@@ -1,7 +1,7 @@
-<?php namespace Cucurbit\MenuManager;
+<?php namespace Cucurbit\ModuleManager;
 
-use Cucurbit\MenuManager\Repository\ModuleMenu;
-use Cucurbit\MenuManager\Repository\Modules;
+use Cucurbit\ModuleManager\Repository\ModuleMenu;
+use Cucurbit\ModuleManager\Repository\Modules;
 
 class ModuleManager
 {

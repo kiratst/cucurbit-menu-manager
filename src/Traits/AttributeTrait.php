@@ -1,4 +1,4 @@
-<?php namespace Cucurbit\MenuManager\Traits;
+<?php namespace Cucurbit\ModuleManager\Traits;
 
 trait AttributeTrait
 {

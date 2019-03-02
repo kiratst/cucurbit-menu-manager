@@ -1,6 +1,6 @@
-<?php namespace Cucurbit\MenuManager\Repository;
+<?php namespace Cucurbit\ModuleManager\Repository;
 
-use Cucurbit\MenuManager\Module;
+use Cucurbit\ModuleManager\Module;
 use Illuminate\Filesystem\Filesystem;
 use Illuminate\Support\Collection;
 use Symfony\Component\Yaml\Yaml;
