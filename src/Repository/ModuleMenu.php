@@ -44,8 +44,10 @@ class ModuleMenu extends Collection
 			$routes = [];
 
 			$group['children'] = collect($group['children'])->map(function ($route) use (&$routes) {
-				$route['link'] = route($route['route']);
-				$routes[]      = $route['route'];
+				if (isset($route['route'])) {
+					$route['link'] = route($route['route']);
+				}
+				$routes[] = $route['route'] ?? '';
 				return $route;
 			})->all();
 
