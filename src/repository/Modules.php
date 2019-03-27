@@ -1,4 +1,6 @@
-<?php namespace Cucurbit\ModuleManager\Repository;
+<?php
+
+namespace Cucurbit\ModuleManager\Repository;
 
 use Cucurbit\ModuleManager\Module;
 use Illuminate\Filesystem\Filesystem;

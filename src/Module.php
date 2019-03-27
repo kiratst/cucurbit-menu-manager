@@ -1,4 +1,6 @@
-<?php namespace Cucurbit\ModuleManager;
+<?php
+
+namespace Cucurbit\ModuleManager;
 
 use ArrayAccess;
 use Cucurbit\ModuleManager\Traits\AttributeTrait;

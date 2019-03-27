@@ -1,4 +1,6 @@
-<?php namespace Cucurbit\ModuleManager;
+<?php
+
+namespace Cucurbit\ModuleManager;
 
 use Cucurbit\ModuleManager\Repository\ModuleMenu;
 use Cucurbit\ModuleManager\Repository\Modules;
