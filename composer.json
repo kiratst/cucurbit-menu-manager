@@ -11,6 +11,7 @@
 	"prefer-stable": true,
     "require": {
 		"php": ">=7.0.0",
+		"cucurbit/framework": "dev-master",
 		"symfony/yaml": "^3.4"
 	},
 	"extra": {
